@@ -2,9 +2,9 @@
 
 Objective: The goal of the game is to choose an option (rock, paper, or scissors) that defeats your opponent's choice according to the following rules:
 
->Rock crushes scissors.
->Scissors cut paper.
->Paper covers rock.
+. Rock crushes scissors.
+. Scissors cut paper.
+. Paper covers rock.
 
 
 ## How the Code Works: ##
